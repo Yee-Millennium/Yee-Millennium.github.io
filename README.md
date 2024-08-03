@@ -1,2 +1,2 @@
 # Yi's homepage
-[Website](https://yee-millennium.github.io)
+[Yi Wei's homepage](https://yee-millennium.github.io)
