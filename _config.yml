@@ -14,7 +14,7 @@ name                     : &name "Yi Wei"
 description              : &description "Undergraduate student at University of Wisconsin, Madison"
 url                      : https://yee-millennium.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Yee-Millennium"
+repository               : "Yee-Millennium/Yee-Millennium.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "https://github.com/Yee-Millennium"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yi Wei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Undergraduate student at University of Wisconsin, Madison"
+  location         : "Madison, WI, US"
+  employer         : # Red Brick University
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #none@example.org 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
