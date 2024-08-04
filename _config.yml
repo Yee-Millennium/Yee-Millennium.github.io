@@ -21,7 +21,7 @@ repository               : "Yee-Millennium/Yee-Millennium.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "avatar.jpg"
   name             : "Yi Wei"
   pronouns         : # example: "she/her"  
   bio              : "Undergrad @ UW-Madison"
