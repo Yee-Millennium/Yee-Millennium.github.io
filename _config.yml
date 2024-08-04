@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yi's corner"
 title_separator          : "-"
 name                     : &name "Yi Wei"
-description              : &description "Undergrad at University of Wisconsin-Madison"
+description              : &description "Undergrad @ UW-Madison"
 url                      : https://yee-millennium.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yee-Millennium/Yee-Millennium.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.png"
   name             : "Yi Wei"
   pronouns         : # example: "she/her"  
-  bio              : "Undergrad at University of Wisconsin-Madison"
+  bio              : "Undergrad @ UW-Madison"
   location         : "Madison, WI, US"
   employer         : # Red Brick University
   uri              : # URL
