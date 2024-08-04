@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yi's corner"
+title                    : "Yi Wei"
 title_separator          : "-"
 name                     : &name "Yi Wei"
 description              : &description "Undergrad @ UW-Madison"
