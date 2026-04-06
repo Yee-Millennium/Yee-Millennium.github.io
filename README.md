@@ -1,2 +1,2 @@
-# Yee-Millennium.github.io
-[Yi Wei's homepage](https://yee-millennium.github.io)
+# yiwei3.github.io
+[Yi Wei's homepage](https://yiwei3.github.io)
