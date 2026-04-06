@@ -9,8 +9,8 @@
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 title: "Adaptive Delayed-Update Cyclic Algorithm for Variational Inequalities"
 collection: publications
-permalink: /publication/aduca-variational-inequalities
-paperurl: "https://arxiv.org/pdf/2603.29128"
+# permalink: /publication/aduca-variational-inequalities
+# paperurl: "https://arxiv.org/pdf/2603.29128"
 ---
 
-[Paper URL](https://arxiv.org/pdf/2603.29128)
+Yi Wei, Xufeng Cai, Jelena Diakonikolas, **In submission** [arxiv](https://arxiv.org/pdf/2603.29128)
