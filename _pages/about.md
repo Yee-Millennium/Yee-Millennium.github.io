@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising senior undergraduate student majoring in Honors Mathematics & Computer Science at the University of Wisconsin-Madison. My research interest lies in large-scale optimization algorithms and their applications in machine learning. I am interested in applying for PhD position in Computer Science / Operations Research / Applied Mathematics starting in 2025 Fall. 
+I am a first-year Ph.D. student at the [Paul G. Allen School of Computer Science & Engineering, University of Washington](https://www.cs.washington.edu/), where I am advised by [Prof. Maryam Fazel](https://www.cs.washington.edu/people/faculty/fazel-maryam/) and [Prof. Lillian Ratliff](https://www.cs.washington.edu/people/faculty/ratliff-lillian/). My research interests lie in optimization, variational inequalities, game theory, and deep learning theory.
 
-I'm very fortunate to be advised by [Prof. Jelena Diakonikolas](https://www.jelena-diakonikolas.com) at UW-Madison. I also have the privilege to be advised by [Prof. Hanbaek Lyu](https://hanbaeklyu.com) during [Research Experience for Undergraduate (REU)](https://hanbaeklyu.com/reu/) program.
-
+I received my bachelor's degree in Honors Mathematics and Computer Sciences from UW-Madison. I had the privilege of being advised by [Prof. Jelena Diakonikolas](https://www.jelena-diakonikolas.com), and I am deeply grateful for her mentorship and for introducing me to rigorous research in optimization.
