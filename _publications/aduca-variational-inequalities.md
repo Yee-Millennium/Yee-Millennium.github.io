@@ -13,4 +13,4 @@ collection: publications
 # paperurl: "https://arxiv.org/pdf/2603.29128"
 ---
 
-Yi Wei, Xufeng Cai, Jelena Diakonikolas, **In submission** [arxiv](https://arxiv.org/pdf/2603.29128)
+Yi Wei, Xufeng Cai, Jelena Diakonikolas, *In submission* [arxiv](https://arxiv.org/pdf/2603.29128)
